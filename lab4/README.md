@@ -1,4 +1,4 @@
-# Lab 4: Object-Oriented Programming
+# Lab 4
 
 This lab is completed using Python locally.
 

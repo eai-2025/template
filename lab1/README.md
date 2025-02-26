@@ -1,4 +1,4 @@
-# Lab 1: Introduction to Python
+# Lab 1
 
 This lab is completed using Google Colab.
 

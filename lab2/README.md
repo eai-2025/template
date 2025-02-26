@@ -1,4 +1,4 @@
-# Lab 2: Data Analysis with Python
+# Lab 2
 
 This lab is completed using Google Colab.
 

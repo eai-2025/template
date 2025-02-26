@@ -1,4 +1,4 @@
-# Lab 5: Data Processing and Analysis
+# Lab 5
 
 This lab is completed using Python locally.
 

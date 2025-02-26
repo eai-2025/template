@@ -1,4 +1,4 @@
-# Lab 6: Final Project
+# Lab 6
 
 This lab is completed using Python locally.
 

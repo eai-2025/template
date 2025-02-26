@@ -1,4 +1,4 @@
-# Lab 3: Functions and Modules
+# Lab 3
 
 This lab is completed using Python locally.
 
